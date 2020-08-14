@@ -1,4 +1,4 @@
-# Quantum Multiply-Add Circuit 
+# Quantum Multiply-Add Circuit using Qiskit
 
 "Maynard, Christopher M., and Einar Pius. "Integer arithmetic with hybrid quantum-classical circuits." arXiv preprint arXiv:1304.4069 (2013)"
 
